@@ -6,6 +6,7 @@
 ## Purpose
 
 Turbine heads for use in an inclosed turbine assembly.
+Holes on bottom for magnets.
 
 
 ## Issues
