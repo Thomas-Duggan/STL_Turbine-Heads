@@ -10,7 +10,6 @@ Turbine heads for use in an inclosed turbine assembly.
 ## Issues
 
 - Not enough testing
-- Needs comments  
 
 
 ## Copyright
