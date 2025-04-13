@@ -1,7 +1,7 @@
 ## Notes
 
--Created in collaboration with Justin Hudson, Tadiwanashe Chimuputi, and Adam Conway (co-authors).
--"R" has clockwise blades, "L" has counter-clockwise blades.
+- Created in collaboration with Justin Hudson, Tadiwanashe Chimuputi, and Adam Conway (co-authors).
+- "R" has clockwise blades, "L" has counter-clockwise blades.
 
 ## Purpose
 
