@@ -13,7 +13,10 @@ Holes on bottom for magnets.
 ## Issues
 
 - Not enough testing
+  
+## Created for
 
+Engineering 1030: Graphics and Design group project, Memorial University
 
 ## Copyright
 
