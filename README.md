@@ -2,6 +2,7 @@
 
 - Created in collaboration with Justin Hudson, Tadiwanashe Chimuputi, and Adam Conway (co-designers).
 - "R" has clockwise blades, "L" has counter-clockwise blades.
+- Created for a much larger turbine assembly.
 
 ## Purpose
 
